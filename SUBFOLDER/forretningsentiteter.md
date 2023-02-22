@@ -2,6 +2,8 @@
 - Booking - En booking er når en kunde har kontaktet virksomheden og bestilt en tur på et bestemt tidspunkt.
 - Taxa - En taxa er køretøjets informationer med id m.m.
 - Betaling - Er servicen serviceforbrugeren bruger til at betale for serviceyderen
+- Chauffør
+- Vagt
 
 ## Forretningsprocesser
 - Betaling - Processen der skal bruges for at kunder kan betale for at køre i taxaen
