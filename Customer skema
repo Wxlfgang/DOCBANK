@@ -1,0 +1,29 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://example.com/product.schema.json",
+ "title": "Costumers",
+ "description": "A list over Costumers",
+ "type": "object"
+}
+
+"properties": {
+ "CustomerId": {
+ "description": "The unique identifier for a Costumer",
+ "type": "integer"
+ },
+ "CustomerName": {
+ "description": "The Name of a Costumer",
+ "type": "string"
+ },
+"CustomerPhoneNumber" {
+"description": "A Costumers phone number"
+"type": "string"
+},
+ "CustomerEmail": {
+ "description": "The Email of a Costumer",
+ "type": "string"
+ },
+ },
+ "required": [ "CostumerId" ]
+}
+
